@@ -1,0 +1,12 @@
+Columns are:
+
+    NP = count number of times pregnant
+    PG = plasma (blood) glucose level (mg/dL)
+    SI = serum insulin (also known as fasting insulin)  (micro units per millilter)
+    BP = blood pressure (mm Hg)
+    SFT = skin fold thickness at tricep (mm)
+    BMI = body mass index (kg/m^2)
+    age = subject age (years)
+    class = has diabetes
+
+
